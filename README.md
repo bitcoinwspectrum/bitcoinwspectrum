@@ -28,17 +28,31 @@ Wallet Port: 41798, RPC Port: 41799
 
 
 sudo apt-get update
+
 sudo apt-get upgrade
+
 sudo reboot
+
 sudo apt-get install build-essential libtool autotools-dev autoconf pkg-config libssl-dev
+
 sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils python3
+
 sudo apt-get install libboost-all-dev
+
 sudo apt-get install software-properties-common
+
 sudo add-apt-repository ppa:wagerr/wagerr
+
 sudo apt-get update
-sudo apt-get install libdb4.8-dev libdb4.8++-dev --> this works now
+
+sudo apt-get install libdb4.8-dev libdb4.8++-dev
+
 sudo apt-get install libminiupnpc-dev
+
 sudo apt-get install libzmq3-dev
+
 git clone https://github.com/bitcoinwspectrum/bitcoinwspectrum
+
 cd bitcoinwspectrum
+
 ./autogen.sh && ./configure --enable-tests=no --without-gui && make && sudo make install
