@@ -1,19 +1,19 @@
-BWS Core integration/staging repository
+BWS Core 2.0 integration/staging repository
 =====================================
 [![GitHub version](https://badge.fury.io/gh/BWS%2FBWS.svg)](https://badge.fury.io/gh/BWS%2FBWS)
 
 
-Masternodes are computers that run a BWS wallet and make decisions,
+Masternodes are computers that run a BWS 2.0 wallet and make decisions,
 such as locking transactions with SwiftTX, coordinate obfuscation of coins,
 and voting on budget funding. Masternodes are required to have 50000 BWS
 collateral.
 
 SUPER FAST
-60 second block time is already very fast, BWS transactions using SwiftTX
+60 second block time is already very fast, BWS 2.0 transactions using SwiftTX
 are instant with ZERO confirmation wait time required.
 
 PRIVACY
-Already extremely secure and private, BWS is aiming its sights on establishing as one of the leading anonymous crypto-currency.
+Already extremely secure and private, BWS 2.0 is aiming its sights on establishing as one of the leading anonymous crypto-currency.
 Zerocoin protocol transactions are fully functional on BWS
 
 SECURE
@@ -21,10 +21,10 @@ Built on Bitcoin Core 0.10.x.
 with some v0.13.2 updates and Dash / PIVX core v0.12.1
 BIP38 Encryption/Decryption of Private Keys.
 
-BWS is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
+BWS 2.0 is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
 - Anonymized transactions using coin mixing technology, we call it _Xend_.
 - Fast transactions featuring guaranteed zero confirmation transactions (_SwiftTX_).
-- Current Masternode technology used to secure the network and provide the above features, each Masternode is secured with a collateral of 50000 BWS.
+- Current Masternode technology used to secure the network and provide the above features, each Masternode is secured with a collateral of 50000 BWS 2.0
 
 More information at [https://bitcoinwspectrum.com](https://bitcoinwspectrum.om/)
 
