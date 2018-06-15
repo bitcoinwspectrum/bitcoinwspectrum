@@ -90,8 +90,6 @@ OFFICIAL BLOCK EXPLORERS
 
 http://217.163.23.222:3000
 
-TO ADD THE WALLET EXPLORER ADD 
+TO ADD THE BWS 2.0 WALLET BLOCK EXPLORER
 
-txindex=1 
-
-to the bws.conf file
+add txindex=1 to the bws.conf file
