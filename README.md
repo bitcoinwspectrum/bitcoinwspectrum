@@ -85,3 +85,13 @@ addnode 45.77.213.178 add
 addnode 45.76.248.116 add
 
 addnode 144.202.24.153 add
+
+OFFICIAL BLOCK EXPLORERS
+
+http://217.163.23.222:3000
+
+TO ADD THE WALLET EXPLORER ADD 
+
+txindex=1 
+
+to the bws.conf file
