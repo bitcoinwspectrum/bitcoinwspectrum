@@ -27,6 +27,8 @@ Wallet Port: 41798, RPC Port: 41799
 | 2 - infinite           | 70% ( 5.6 BWS)    | 30% (2.4 BWS)   
 
 
+HOW TO COMPILE THE SOURCE CODE
+
 sudo apt-get update
 
 sudo apt-get upgrade
