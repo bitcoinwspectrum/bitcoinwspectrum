@@ -7,7 +7,7 @@ BWS is a cutting edge cryptocurrency, with many features not available in most o
 - Fast transactions featuring guaranteed zero confirmation transactions (_SwiftTX_).
 - Current Masternode technology used to secure the network and provide the above features, each Masternode is secured with a collateral of 50000 BWS.
 
-More information at [https://bitcoinwspectrum.tk/](https://bitcoinwspectrum.tk/)
+More information at [https://bitcoinwspectrum.com](https://bitcoinwspectrum.om/)
 
 ### Coin Specs
 | Algo                         | Xevan              |
