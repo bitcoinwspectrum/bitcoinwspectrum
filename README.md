@@ -62,5 +62,7 @@ cd bitcoinwspectrum
 NODES (wallet has a seednode)
 
 addnode 45.77.213.178 add
+
 addnode 45.76.248.116 add
+
 addnode 144.202.24.153 add
