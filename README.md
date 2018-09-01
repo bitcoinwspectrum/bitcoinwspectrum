@@ -90,6 +90,8 @@ OFFICIAL BLOCK EXPLORERS
 
 http://217.163.23.222:3000
 
+https://chainz.cryptoid.info/bws/#
+
 TO ADD THE BWS 2.0 WALLET BLOCK EXPLORER
 
 add txindex=1 to the bws.conf file
